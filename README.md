@@ -25,12 +25,12 @@ Data includes various pollutant measurements and AQI calculations
 
 🛠️ Tech Stack
 
-Python
-Streamlit
-Scikit-learn
-Pandas
-Plotly Express
-NumPy
+Python,
+Streamlit,
+Scikit-learn,
+Pandas,
+Plotly Express,
+NumPy,
 
 The Dataset folder contains all the data used for the project.
 The Round2 folder contians the power BI Dashboard and the round 2 project report
