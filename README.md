@@ -32,47 +32,6 @@ Pandas
 Plotly Express
 NumPy
 
-⚙️ Installation & Setup
-
-Install required packages
-
-bashCopypip install -r requirements.txt
-
-Run the application
-
-bashCopystreamlit run Home.py
-📁 Project Structure
-Copyyour_project_folder/
-│
-├── Home.py                # Landing page
-├── requirements.txt       # Package dependencies
-├── Data.csv              # CPCB dataset
-│
-├── pages/
-│   ├── 1_AQI_Predictor.py    # AQI prediction interface
-│   ├── 2_Data_Analysis.py    # Data analysis dashboard
-│
-└── utils/
-    └── model.py          # ML model utilities
-🚀 Live Demo
-Visit our deployed application: Air Quality Analysis Portal
-📝 Machine Learning Model
-
-Random Forest Regressor
-Features used: PM2.5, PM10, NO2, CO, SO2
-Model trained on historical CPCB data
-Optimized hyperparameters for better accuracy
-
-🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check issues page.
-
-
-🙏 Acknowledgments
-
-Central Pollution Control Board (CPCB) for providing the data
-data.gov.in for data accessibility
-Streamlit for the amazing web framework
-
-📊 Data Reference
-The AQI data is sourced from the Central Pollution Control Board's Continuous Ambient Air Quality Monitoring System (CAAQMS). The dataset contains hourly readings from June 2023 to January 2025, providing comprehensive air quality measurements across various Indian locations.
-For the latest data, visit: CPCB CAAQM Dashboard
+The Dataset folder contains all the data used for the project.
+The Round2 folder contians the power BI Dashboard and the round 2 project report
+the WEbApp folder contains the files for running the webapp along with the model and final report.
