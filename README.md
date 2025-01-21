@@ -34,11 +34,6 @@ NumPy
 
 ⚙️ Installation & Setup
 
-Clone the repository
-
-bashCopygit clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-
 Install required packages
 
 bashCopypip install -r requirements.txt
