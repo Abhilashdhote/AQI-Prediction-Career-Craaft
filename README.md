@@ -35,3 +35,12 @@ NumPy,
 The Dataset folder contains all the data used for the project.
 The Round2 folder contians the power BI Dashboard and the round 2 project report
 the WEbApp folder contains the files for running the webapp along with the model and final report and the predicted dataset.The predicted dataset contains orignal and predicted values for over 400 values.
+
+
+Power BI 
+![Screenshot 2025-01-20 213729](https://github.com/user-attachments/assets/57c44a1b-6748-4782-bfbd-869302739403)
+
+WebApp
+![Screenshot (187)](https://github.com/user-attachments/assets/ecc78cf1-babe-43f7-9e43-7454ed92c4b1)
+
+
